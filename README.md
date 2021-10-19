@@ -1,5 +1,5 @@
   ### Hello World!  <img src="https://github.com/brutewooorse/brutewooorse/blob/master/assets/Hi.gif" width="29px">
-  [![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal)
+  [![Visits Badge](https://badges.pufler.dev/visits/brutewooorse/brutewooorse)](https://badges.pufler.dev/visits/brutewooorse/brutewooorse)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal)](https://github.com/brutewooorse/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=brutewooorse)](https://github.com/brutewooorse/github-profile-trophy)
   
